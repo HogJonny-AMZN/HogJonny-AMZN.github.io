@@ -4,9 +4,9 @@ CO3DEX refers to 'The O3DE Creative Opulence and Design EXperience', we are a gr
 https://github.com/HogJonny-AMZN/CO3DEX
 
 ## HogJonny-AMZN.github.io
-I am a Sr. Design Technologist at AWS, in the Game Tech org, on the Lumberyard team.  What was perviously Lumberyard, has now become the Open 3D Engine (aka O3DE) 
+I am a Sr. Design Technologist at AWS, in the Game Tech org, in the Game Engine and Developer Services (GE&DS) org (aka formerly the Lumberyard team.)
 
-https://www.o3de.org/
+What was perviously Lumberyard, has now become the Open 3D Engine (aka O3DE): https://www.o3de.org/
 
 My github profile is here: https://github.com/HogJonny-AMZN
 
